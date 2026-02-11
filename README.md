@@ -1,43 +1,63 @@
 <div align="center">
 
-# 👩‍💻 Akanksha Thotwe  
-### ✨ MERN Stack Developer | MCA Student  
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Akanksha%20Thotwe&fontSize=36&fontAlignY=35" />
 
-💡 Building scalable web projects & real-world applications  
-🌸 Passionate about clean UI, structured code & impactful solutions  
+### MERN Stack Developer | MCA Student  
+Building elegant web experiences with purpose ✨
 
 </div>
 
 ---
 
-## 🌷 About Me
-- 🎓 MCA student at **GECA**
-- 💻 MERN Stack Developer
-- 🚀 Focused on building practical and production-ready applications
-- 🧠 Strong foundation in problem solving and software development
-- ✨ Believe in writing clean, maintainable, and user-friendly code
+## 🌸 About
+🎓 MCA student at **GECA**  
+💻 MERN Stack Developer  
+🚀 Focused on real-world, scalable applications  
+🧠 Strong problem-solving mindset  
+✨ Clean code • thoughtful UI • meaningful impact  
+
+---
+
+## 🧩 Skills
+<div align="center">
+
+`HTML5` `CSS3` `JavaScript` `Java` `PHP` `SQL`
+
+</div>
+
+---
+
+## ⚙️ Frameworks & Tools
+<div align="center">
+
+`MongoDB` `Express.js` `React.js` `Node.js`  
+`Bootstrap` `MySQL` `Git` `GitHub` `VS Code`
+
+</div>
 
 ---
 
 ## 🚀 What I’m Working On
-- 🔹 Full Stack Web Applications  
-- 🔹 Internship ERP Modules  
-- 🔹 Portfolio Website  
-- 🔹 Improving DSA & Problem Solving  
+- Full Stack Web Applications  
+- Internship ERP Modules  
+- Portfolio Website  
+- Improving DSA & Problem Solving  
 
 ---
 
-## 🌐 Let’s Connect
-- 💼 LinkedIn: *add link*
-- 📧 Email: *add email*
-- 🌍 Portfolio: *coming soon*
+## 🌐 Connect
+<div align="center">
+
+💼 <a href="https://www.linkedin.com/in/akanksha-thotwe-0ab495326" target="_blank">LinkedIn</a> •
+📧 <a href="mailto:akankshathotwe21@gmail.com">Email</a> •
+
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ *"A technology-oriented problem solver crafting meaningful digital experiences."*  
-
-💙 Thanks for visiting my GitHub!
+✨ *Technology-oriented problem solver crafting impactful digital solutions.*
 
 </div>
