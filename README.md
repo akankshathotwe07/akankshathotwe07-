@@ -12,71 +12,74 @@
 
 ---
 
+<div align="center">
+
 # 💫 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-<h3>Hey there 👋 I'm Akanksha</h3>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-💻 Passionate <b>MERN Stack Developer</b>  
-🎓 MCA Student at <b>GECA</b>  
-🚀 Building modern, scalable & responsive web applications  
-✨ Focused on clean UI, smooth user experience & creative development  
-🧠 Continuously learning and growing in software development  
+```javascript
+const akanksha = {
+    role: "MERN Stack Developer",
+    education: "MCA Student at GECA",
+    passion: "Building modern web applications",
+    focus: ["Frontend", "Backend", "UI/UX"],
+    learning: "Full Stack Development",
+    funFact: "Turning ideas into reality with code ✨"
+};
+```
 
 <br clear="right"/>
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
 
+# 🌐 Connect With Me
+
 <a href="https://www.linkedin.com/in/akanksha-thotwe-0ab495326" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:akankshathotwe21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,postman,vscode,netlify,vercel,npm&perline=6" />
+# 💻 Tech Stack
 
-<br/><br/>
+<br/>
 
-<h3>
-HTML5 • CSS3 • JavaScript • Java • PHP • SQL • React.js • Next.js • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS • Bootstrap • Git • GitHub • Postman • VS Code
-</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,postman,vscode,netlify,vercel,npm&theme=dark&perline=7" />
 
 </div>
 
 ---
+
+<div align="center">
 
 # 📈 Activity & Growth
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Growing+Everyday+In+Software+Development+🚀;Building+Modern+Full+Stack+Projects+💻;Exploring+New+Technologies+✨;Improving+Problem+Solving+Skills+🧠" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=800&lines=Growing+Everyday+In+Software+Development+🚀;Building+Modern+Full+Stack+Projects+💻;Exploring+New+Technologies+✨;Improving+Problem+Solving+Skills+🧠" />
 
 </div>
 
 ---
 
-# ✨ Dev Quote
-
 <div align="center">
+
+# ✨ Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
