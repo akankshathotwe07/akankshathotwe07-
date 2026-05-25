@@ -1,10 +1,62 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:7C3AED,40:A855F7,60:EC4899,80:F43F5E,100:F97316&height=270&section=header&text=Akanksha%20Thotwe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20MCA%20Student&descAlignY=60&descSize=18" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;Building+Modern+Web+Experiences+✨;Passionate+About+Creative+Development+💜" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=A855F7&style=for-the-badge" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="coding" width="290" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+```yaml
+Name: Akanksha Thotwe
+Role: MERN Stack Developer
+Education: MCA Student at GECA
+Passion: Building modern & scalable web applications
+Focus: Clean UI • Smooth UX • Real-world projects
+```
+
+✨ Passionate about crafting elegant and responsive web applications  
+🚀 Continuously learning modern technologies and software development  
+💻 Building impactful digital experiences using the MERN Stack  
+🧠 Strong problem-solving mindset with dedication toward growth  
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akanksha-thotwe-0ab495326" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:akankshathotwe21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 # 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,postman,vscode,netlify,vercel,npm&perline=6" />
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,5 +89,39 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
+</div>
+
+---
+
+# 📈 Activity & Growth
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Growing+Everyday+In+Software+Development+🚀;Building+Modern+Full+Stack+Projects+💻;Exploring+New+Technologies+✨;Improving+Problem+Solving+Skills+🧠" />
+
+</div>
+
+---
+
+# ✨ Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Code.+Create.+Innovate.+✨;Dream+Big,+Build+Bigger+🚀;Turning+Ideas+Into+Digital+Reality+💻" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+### 💜 Turning ideas into elegant digital experiences.
 
 </div>
