@@ -14,24 +14,27 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="290" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<div align="center">
 
-```yaml
-Name: Akanksha Thotwe
-Role: MERN Stack Developer
-Education: MCA Student at GECA
-Passion: Building modern & scalable web applications
-Focus: Clean UI • Smooth UX • Real-world projects
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Hey+There+👋;I'm+Akanksha+Thotwe+💜;MERN+Stack+Developer+🚀;Building+Modern+Web+Experiences+✨" />
 
-✨ Passionate about crafting elegant and responsive web applications  
-🚀 Continuously learning modern technologies and software development  
-💻 Building impactful digital experiences using the MERN Stack  
-🧠 Strong problem-solving mindset with dedication toward growth  
+</div>
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+
+<br/>
+
+<div align="left">
+
+💻 Passionate **MERN Stack Developer** focused on building modern web applications  
+🎓 MCA Student at **Government College of Engineering, Aurangabad (GECA)**  
+🚀 Exploring full stack development, scalable applications & creative UI design  
+✨ Love turning ideas into elegant and impactful digital experiences  
+🧠 Continuously learning, improving, and growing in software development  
+
+</div>
 
 <br clear="right"/>
-
----
 
 # 🌐 Connect With Me
 
